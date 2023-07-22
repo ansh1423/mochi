@@ -1,0 +1,942 @@
+{
+    "status": "ok",
+    "totalResults": 72,
+    "articles": [
+    {
+   "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Apple’s new ‘Personal Voice’ feature can create a voice that sounds like you or a loved one in just 15 minutes",
+    "description": "As part of its preview of iOS 17 accessibility updates coming this year, Apple announced a pair of new features called Live Speech and Personal Voice. Live Speech allows users to type what they want to say and have it be spoken out. \nPersonal Voice, on the ot…",
+    "url": "https://9to5mac.com/2023/06/10/apple-personal-voice-creation-feature-ios-17/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/live-speech-personal-voice.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-06-11T00:59:30Z",
+    "content": "As part of its preview of iOS 17 accessibility updates coming this year, Apple announced a pair of new features called Live Speech and Personal Voice. Live Speech allows users to type what they want … [+5165 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Apple Releases Tool to Help Developers Port Windows Games to Mac",
+    "description": "Apple at WWDC this week announced a new toolkit that makes it easier for game developers to port Windows games to the Mac. The toolkit provides an emulation environment that allows developers to run their existing, unmodified Windows game on the Mac and quick…",
+    "url": "https://www.macrumors.com/2023/06/10/apple-releases-mac-game-porting-toolkit/",
+    "urlToImage": "https://images.macrumors.com/t/PceI4dMoTAvLNuGiYRohWpFdtcw=/1600x/article-new/2023/06/Mac-Gaming.jpg",
+    "publishedAt": "2023-06-11T01:28:43Z",
+    "content": "Apple at WWDC this week announced a new toolkit that makes it easier for game developers to port Windows games to the Mac. The toolkit provides an emulation environment that allows developers to run … [+1219 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Caschys Blog"
+    },
+    "author": "André Westphal",
+    "title": "Immer wieder sonntags KW 23",
+    "description": "Ich hoffe, dass ihr bisher ein schönes Wochenende verbringen konntet? Frühaufstehern und natürlich auch denjenigen, die etwas später in diesen Beitrag hereinlesen, biete ich hier wie immer einen kleinen Wochenrückblick an. Obendrein erfahrt ihr auch, welche A…",
+    "url": "https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-23-9/",
+    "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/Kaffee-Sonntags.jpg",
+    "publishedAt": "2023-06-11T04:30:57Z",
+    "content": "Ich hoffe, dass ihr bisher ein schönes Wochenende verbringen konntet? Frühaufstehern und natürlich auch denjenigen, die etwas später in diesen Beitrag hereinlesen, biete ich hier wie immer einen klei… [+3051 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Srad.jp"
+    },
+    "author": "headless",
+    "title": "Windows 11、英国版などで「ZIP」ファイルを「郵便番号」ファイルと表現",
+    "description": "Windows 11 のエクスプローラーではファイルのコンテキストメニューに「ZIPファイルに圧縮」という項目が追加されているが、英国英語版では「ZIP」が「postcode」(英国英語の「郵便番号」) と訳されていることが話題となっている\n(Neowin の記事)。\n\nこの項目は米国英語版で「Compress to ZIP file」となっており、英国英語版では「Compress to postcode file」と表示される。「ZIP」には「ZIP code」(米国英語の「郵便番号」) の意味もあるが、「ZI…",
+    "url": "https://idle.srad.jp/story/23/06/11/0342225/",
+    "urlToImage": "https://srad.jp/static/articles/23/06/11/0342225-2-thumb.png",
+    "publishedAt": "2023-06-11T04:05:00Z",
+    "content": "Windows 11 ZIPZIPpostcode() \r\n(Neowin )Compress to ZIP fileCompress to postcode fileZIPZIP code() ZIP fileMicrosoft Windows 10 Fall Creators UpdateWindows 10 Autumn Creators Update\r\nCompress to postc… [+58 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Appbank.net"
+    },
+    "author": "テクノロジー記事班",
+    "title": "次世代「iPhone 15 Pro」最新リークとデザイン予測",
+    "description": "今年登場する見込みの「iPhone 15 Pro」の、リークをもとにした予測デザインを、海外YouTubeチャンネル「Technizo Concept」が掲載しています。 *Category:テクノロジー Technol […]",
+    "url": "https://www.appbank.net/2023/06/11/technology/2485128.php",
+    "urlToImage": "https://www.appbank.net/wp-content/uploads/2023/06/2023-0609-iPhone-15-pro-thumb-1.jpeg",
+    "publishedAt": "2023-06-11T02:48:45Z",
+    "content": "iPhone 15 ProYouTubeTechnizo Concept\r\n*Category:\r\n Technology *SourceMacRumors ,Technizo Concept\r\niPhone 15 ProCG\r\niPhone 15 ProCGiPhone 14 Pro\r\nApple\r\nUSB-C\r\nDynamic Island\r\nMacRumorsiPhone 15 Pro\r\n… [+152 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Techbang.com"
+    },
+    "author": "Hsuann",
+    "title": "Apple宣佈2023年Apple設計大獎獲獎者",
+    "description": "Apple 揭曉年度 Apple 設計大獎獲獎者，為 12 款一流的 app 和遊戲喝采。今年的獲獎開發者團隊來自世界各地，他們全都創造了設計傑出的創意和新穎 app。Apple 揭曉年度 Apple 設計大獎獲獎者，為 12 款一流的 app 和遊戲喝采。今年的獲獎開發者團隊來自世界各地，他們全都創造了設計傑出的創意和新穎 app。多元包容類、趣味體驗類、互動交流類、社會影響類、視覺藝術類和創新思維類等六個類別，各有一款 app 和遊戲獲獎。這些獲獎者是從 36 款入圍作品中選出。\n<ul>\n<li>延伸閱讀：…",
+    "url": "https://www.techbang.com/posts/107043-apple-announces-winners-of-the-2023-apple-design-awards",
+    "urlToImage": "https://cdn2.techbang.com/system/excerpt_images/107043/original/7d349038bfebe53d7b6cd958f4de45d8.jpg?1686212580",
+    "publishedAt": "2023-06-11T00:30:00Z",
+    "content": "Apple Apple 12 app app app 36 \r\nApple Susan Prescott App Apple Apple app \r\nAppUniverse Website BuilderUniverse Exploration Company\r\nUniverse app Universe\r\nstitch.Lykke Studios\r\n Apple Arcade stitch.\r… [+1306 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Fstoppers"
+    },
+    "author": "Brad Wendes",
+    "title": "Is Apple Vision Pro the Future?",
+    "description": "Like many tech enthusiasts, I’ve been eagerly awaiting the announcements at Apple’s Worldwide Developer Conference 2023. There had been wild rumors of a new Mac Pro, and a new AR/VR product which would be an absolute game-changer in the world of consumer tech…",
+    "url": "https://fstoppers.com/gear/apple-vision-pro-future-634189",
+    "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2023/06/vision-pro-lead.jpg",
+    "publishedAt": "2023-06-11T00:04:01Z",
+    "content": "Like many tech enthusiasts, Ive been eagerly awaiting the announcements at Apples Worldwide Developer Conference 2023. There had been wild rumors of a new Mac Pro, and a new AR/VR product which would… [+6293 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "｢macOS｣のIntel Macのサポートはいつまで?? ｰ 早ければ来年リリースの｢macOS 15｣が最後か",
+    "description": "Appleは先週の「WWDC23」で新型「Mac Pro」を発表し、IntelチップからAppleシリコンへの移行を完了しましたが、9To5Macが、macOSにおけるIntelチップ搭載Macのサポート終了時期を予想し ...",
+    "url": "https://taisy0.com/2023/06/11/172859.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2020/10/MacSeries2020.jpg",
+    "publishedAt": "2023-06-11T01:37:13Z",
+    "content": "AppleWWDC23Mac ProIntelApple9To5MacmacOSIntelMac\r\nApple2005PowerPCIntel200662007Intel Mac200618Mac ProIntel\r\n2007PowerPC MacMac OS X Leopard2009PowerPC MacIntel MacMac OS X Snow LeopardAppleIntel Mac… [+701 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Hvg.hu"
+    },
+    "author": "hvg@hvg.hu",
+    "title": "Elvitelre #18: A Herczeg-sztori, egy hercegi esküvő és a Himalája királyai",
+    "description": "Elvitelre - a podcast, amelyben az adott hét legjobb HVG hetilapos és hvg360-as anyagaiból válogatunk – csak indítsa el a háttérben és hallgassa meg szerzőink legjobb írásait! Ezen a héten: a Herczeg Zoltán-sztori hátterét, a serpák történetét és egy jordánia…",
+    "url": "https://hvg.hu/itthon/20230611_Elvitelre_18_Herczeg_Zoltan_Himalaja_Serpak_Jordania_eskuvo",
+    "urlToImage": "https://api.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/0a4160c3-ee2d-40d7-aaad-adba86c86f60.jpg",
+    "publishedAt": "2023-06-11T04:00:00Z",
+    "content": "Elvitelre - a podcast, amelyben az adott hét legjobb HVG hetilapos és hvg360-as anyagaiból válogatunk csak indítsa el a háttérben és hallgassa meg szerzink legjobb írásait! Ezen a héten: a Herczeg Zo… [+573 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Vnexpress.net"
+    },
+    "author": "VnExpress",
+    "title": "Sếp Apple chơi guitar điện điêu luyện",
+    "description": "Craig Federighi, Phó chủ tịch cấp cao về phần mềm của Apple, chơi guitar điện điêu luyện đến mức nhiều người nghi ngờ.",
+    "url": "https://vnexpress.net/sep-apple-choi-guitar-dien-dieu-luyen-4615981.html",
+    "urlToImage": "https://vcdn1-sohoa.vnecdn.net/2023/06/10/Screenshot20230610at150530-168-2213-3634-1686384434.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cA3U0A2lylNfjIl_C-c95A",
+    "publishedAt": "2023-06-11T02:00:00Z",
+    "content": "Craig Federighi, Phó ch tch cp cao v phn mm ca Apple, chi guitar in iêu luyn n mc nhiu ngi nghi ng.Ti WWDC 2023 din ra t ngày 5 n 9/6, bên cnh kính thc t o Vision Pro mi, s kin còn thu hút chú ý khi … [+1406 chars]"
+    },
+    {
+   "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Casey Clark",
+    "title": "8 colorful and long-wearing makeup products to wear to all of your Pride celebrations",
+    "description": "Show up to celebrate the LGBTQ+ community this Pride Month with colorful makeup looks that'll last through your festivities.",
+    "url": "https://www.usatoday.com/story/money/reviewed/2023/06/10/pride-makeup/70308217007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iGMfaCTV6qy33Wp2jobT1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/usa_today_money_325/e4dc5705c50651e66773c331fabf61b0",
+    "publishedAt": "2023-06-11T01:12:10Z",
+    "content": "8 colorful and long-wearing makeup products to wear to all of your Pride celebrations.\r\n Recommendations are independently chosen by Reviewed's editors. Purchases made through the links below may ear… [+5889 chars]"
+    },
+    {
+   "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Bengals Wire",
+    "title": "Best NFL free agents left and whether Bengals should be interested",
+    "description": "A look at the top free agents and whether the Bengals should be interested.",
+    "url": "https://bengalswire.usatoday.com/lists/nfl-free-agents-bengals-interest/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UIqucadJ5Zk2ssIdHnVd5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cincinnati_bengals_wire_usa_today_sports_articles_393/d53c913af874dacb07823eacd7b1dc89",
+    "publishedAt": "2023-06-11T03:45:23Z",
+    "content": "The Cincinnati Bengals dont figure to get active in free agency much over the summer as training camp gets underway.\r\nTheres always a chance they go after more help at a position like running back or… [+2299 chars]"
+    },
+    {
+   "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Cardinals Wire",
+    "title": "Cardinals predicted to win only 2 games in 2023",
+    "description": "NFL.com's Adam Rank predicts the Cardinals' only wins will come against the Rams and the Ravens.",
+    "url": "https://cardswire.usatoday.com/2023/06/10/cardinals-predicted-to-won-only-2-games-in-2023/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GvEyb0N.yltWCs9aOwFJdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/arizona_cardinals_wire_usa_today_sports_articles_662/97a32161d208b2f56e3c8accaccdda8d",
+    "publishedAt": "2023-06-11T04:01:37Z",
+    "content": "The Arizona Cardinals are expected to struggle in 2023. How bad will they be?\r\nPersonally, while I dont think they will be good, I think they will be better than most believe, as I expect Kyler Murra… [+817 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Desdelinux.net"
+    },
+    "author": "Darkcrizt",
+    "title": "Asahi Linux ya cuenta con compatibilidad para OpenGL 3.1",
+    "description": "Los desarrolladores de Asahi Linux dieron a conocer un informe en el cual anuncian los logros realizados en la actualización de ...",
+    "url": "https://blog.desdelinux.net/asahi-linux-ya-cuenta-con-compatibilidad-para-opengl-3-1/",
+    "urlToImage": "https://blog.desdelinux.net/wp-content/uploads/2021/01/Asahi-Linux.png",
+    "publishedAt": "2023-06-11T03:39:30Z",
+    "content": "Asahi Linux es liderada por Héctor Martin quien sumamente conocido por su experiencia en ports\r\nAquí en el blog ya hemos hablado sobre Asahi Linux la cual es una distribucion de Linux que se desarrol… [+4133 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Applech2.com"
+    },
+    "author": "applech2",
+    "title": "Microsoft、AppleのApp Storeでも「Microsoft 365」のサブスクリプション価格を値上げ。",
+    "description": "MicrosoftがAppleのApp Storeでも「Microsoft 365」の価格を値上げしています。詳細は以下から。 　Microsoftは日本時間2023年05月12日、06月01日よりコンシューマ向け「M\nThe post Microsoft、AppleのApp Storeでも「Microsoft 365」のサブスクリプション価格を値上げ。 first appeared on AAPL Ch..",
+    "url": "https://applech2.com/archives/20230611-microsoft-office-356-new-price.html",
+    "urlToImage": "https://applech2.com/wp-content/uploads/2023/06/Microsoft-356-for-iOS-new-prices-June-2023.jpg",
+    "publishedAt": "2023-06-11T00:37:41Z",
+    "content": "MicrosoftAppleApp StoreMicrosoft 365\r\nMicrosoft202305120601Microsoft 365 (Office)/05AppleMac/App Store\r\nMicrosoft 365 Office \r\n Microsoft 365 Office Microsoft Blog\r\nApp StoreMicrosoft 36514~15%Mac Ap… [+376 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Toodaylab.com"
+    },
+    "author": "吴诗源",
+    "title": "今日消费资讯：% ARABICA 成都远洋太古里新店开业、哈雷戴维森推出全新 CVO 摩托车",
+    "description": "% ARABICA 成都远洋太古里新店开业6 月 10 日，% ARABICA 在成都远洋太古里的新店开始试营业，店铺位于苹果 Apple Store 背后 2 楼，这是 % ARABICA 在成都的第 7 家门店，也是全球第 153 家门店。值得一提的是，在此之前 % ARABICA 在成都远洋太古里已经有一家门店，这是 % ARABICA 成都首店，于 2019 年 8 月 21 日开业。FENDI Astrology 2023 夏季胶囊系列限时店在北京 SKP 开幕6 月 9 日，FENDI 在北京 SKP…",
+    "url": "https://www.toodaylab.com/81965",
+    "urlToImage": null,
+    "publishedAt": "2023-06-11T00:30:00Z",
+    "content": "% ARABICA \r\n6 10 % ARABICA Apple Store 2 % ARABICA 7 153 \r\n% ARABICA % ARABICA 2019 8 21 \r\nFENDI Astrology 2023 SKP \r\n6 9 FENDI SKP FENDI Astrology 2023 6 18 \r\n Pequin FENDI \r\nFENDI Astrology 2023 T … [+293 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Wonkette.com"
+    },
+    "author": "Ziggy Wiggy",
+    "title": "Wonkette Movie Night: Caddyshack",
+    "description": "Hi Movie Night fans!Tonight we're watching Caddyshack (1980) co-starring Bill Murray, Chevy Chase and Rodney Dangerfield. The directorial debut of Harold Ramis, who also wrote the movie along with Brian Doyle-Murray and Douglas Kenney.Described by ESPN as \"pe…",
+    "url": "https://www.wonkette.com/wonkette-movie-night-caddyshack",
+    "urlToImage": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zMzgwNDg1NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0MzUwMTM5N30.HSh__eeoKZgMMUQCkRlWK-m4F79vrM4xxjg9UaEZYO8/img.jpg?width=1200&height=600&coordinates=0%2C0%2C0%2C150",
+    "publishedAt": "2023-06-11T00:00:00Z",
+    "content": "Hi Movie Night fans!\r\nTonight we're watching Caddyshack (1980) co-starring Bill Murray, Chevy Chase and Rodney Dangerfield. The directorial debut of Harold Ramis, who also wrote the movie along with … [+429 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Appllio.com"
+    },
+    "author": "アプリオ編集部",
+    "title": "Renta!（レンタ）のクーポン・キャンペーン情報まとめ【2023年6月】",
+    "description": "人気のマンガ作品を79万冊以上購入、34万冊以上レンタルできるマンガアプリ「Renta!（レンタ）」。お得に作品を購入・レンタルして読みたいという人も多いでしょう。この記事では、Renta!で使えるクーポン情報のほか、キャンペーンなどでお得に購入・レンタルする方法を解説。さらに、セール中の作品をピックアップし、まとめて紹介しています。",
+    "url": "https://appllio.com/renta-coupon-campaign-check-list",
+    "urlToImage": "https://appllio.com/sites/default/files/styles/cover_xl_1/public/2023/06/08/r-renta-coupon-campaign-check-list-0.jpg",
+    "publishedAt": "2023-06-11T02:58:13Z",
+    "content": "Renta!\r\nRenta!3\r\n<table><tr><th> </th><th></th><th></th></tr><tr><th>2</th><th></th><th></th></tr><tr><th></th><td>014999</td><td>1%</td><td></td></tr><tr><th></th><td>1500049999</td><td>2%</td><td>3… [+678 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Canaltech.com.br"
+    },
+    "author": "Natalie Rosa",
+    "title": "10 séries mais assistidas de maio de 2023",
+    "description": "Maio chegou ao fim com diversas séries incríveis para maratonar nas plataformas de streaming, muitas delas se destacando ao longo de várias semanas até chegar no ranking mensal. Neste mês, se destacaram produções novas como A Small Light e Silo, além de nomes…",
+    "url": "https://canaltech.com.br/series/series-mais-assistidas-maio-2023/",
+    "urlToImage": "https://t.ctcdn.com.br/J1aCAwysLL2BC2UoWpvqKij2zog=/20x20:1899x1058/1400x788/smart/i749776.jpeg",
+    "publishedAt": "2023-06-11T00:00:00Z",
+    "content": "Maio chegou ao fim com diversas séries incríveis para maratonar nas plataformas de streaming, muitas delas se destacando ao longo de várias semanas até chegar no ranking mensal. Neste mês, se destaca… [+3414 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Itlifehack.jp"
+    },
+    "author": "itlifehack",
+    "title": "アグリサイエンスバレー常総、まちびらきセレモニー＆内覧会！日本最大級のクリプトカンファレンス「IVS Crypto 2023 KYOTO」全貌を公開【IVS2023】【まとめ記事】",
+    "description": "戸田建設株式会社は2023年5月26日、同社がPPP事業協力者として茨城県常総市と共に事業推進をしてきた、農業6次産業化を軸とした新たな地域社会拠点「アグリサイエンスバレー常総」のまちびらきに伴う、まちびらきセレモニー＆内覧会を開催した。\n\nIVS KYOTO実行委員会（Head...",
+    "url": "https://itlifehack.jp/archives/10651138.html",
+    "urlToImage": "https://livedoor.blogimg.jp/itlifehack/imgs/0/a/0a0bb90b-s.jpg",
+    "publishedAt": "2023-06-11T01:00:41Z",
+    "content": "2023526PPP6IVS KYOTOHeadline Japan / Infinity Ventures Crypto20236286303IVS Crypto 2023 KYOTO\r\nCP-050CP-051CP-050300×600×600mmCP-051500×600×600mm\r\n54100-MR196BK()100-MR196W()2cm524.532.5cm\r\nApple 10i… [+422 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Levelup.com"
+    },
+    "author": "Mardokeo Galván",
+    "title": "Escritora de SIE Santa Monica parece confirmar próxima IP de ciencia ficción del estudio",
+    "description": "Hay mucha especulación en torno a los proyectos de los estudios de PlayStation luego de que Sony está apostando fuertemente por los juegos como servicio. Por otro lado, otros piensan que los estudios más conocidos de PlayStation podrían estar estancándose en …",
+    "url": "https://www.levelup.com/noticias/741749/Escritora-de-SIE-Santa-Monica-parece-confirmar-proxima-IP-de-ciencia-ficcion-del-estudio",
+    "urlToImage": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/800738/800738_600x315.jpg",
+    "publishedAt": "2023-06-11T00:29:00Z",
+    "content": "Hay mucha especulación en torno a los proyectos de los estudios de PlayStation luego de que Sony está apostando fuertemente por los juegos como servicio. Por otro lado, otros piensan que los estudios… [+2958 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "S-max.jp"
+    },
+    "author": "gamelagoon",
+    "title": "秋吉 健のArcaic Singularity：xRデバイスの理想と現実。アップルがHMD「Apple Vision Pro」で示した未来の可能性を考える【コラム】",
+    "description": "Apple Vision Proが示した未来について考えてみた！\n既報通り、Apple（アップル）は6日（日本時間）、開発者向けイベント「WWDC 2023」を開催し、ゴーグル型のxR（本記事では以下「MRデバイス」として解説する）対応ヘッドマウントディスプレイ（HMD）デバイス「Apple Vision...",
+    "url": "https://s-max.jp/archives/1823917.html",
+    "urlToImage": "https://livedoor.blogimg.jp/smaxjp/imgs/0/f/0fe90b18-s.jpg",
+    "publishedAt": "2023-06-11T02:25:07Z",
+    "content": "MRApple Vision Pro\r\nApple Vision ProHMDMRHMDHead Mounted DisplayMRMixed Reality\r\nVR\r\nVRVirtual Reality\r\nVR3D\r\nMR3D\r\nAR3DMR\r\n3DARVRMRxR\r\nMRVR3DARMRMicrosoftHoloLens\r\nApple Vision ProMR\r\nApple Vision P… [+462 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "hato",
+    "title": "iOS17の隠れた新機能10選：パスコード忘れ対策、壁紙に太陽系勢揃いなど",
+    "description": "iOS17には、多くの新機能追加が発表されて話題になっています。しかしiOS17には、Appleが発表していない新機能もたくさんあります。米メディアCult of Macが、iOS17の隠れた10の新機能をまとめているのでご紹介します。\n \n\n■3行で分かる、この記事のポイント\n1. iOS17には、AppleがWWDC23で発表していない新機能も多い。\n2. パスコードを変更後、72時間以内なら古いパスコードでロック解除可能。\n3. リマインダーは買い物メモとして便利に進化。\n\nWWDC23でも語られなかった、…",
+    "url": "http://iphone-mania.jp/news-541327/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2023/06/10/Apple-WWDC23-iOS17.png",
+    "publishedAt": "2023-06-11T00:00:00Z",
+    "content": "iOS17iOS17AppleCult of MaciOS171031. iOS17AppleWWDC232. 723. \r\nWWDC23iOS17\r\nWWDC23iOS17iOS177\r\n1. 72\r\niOS17iPhone72\r\n iPhoneiOS17Face ID\r\n2. \r\niOS17\r\n3. \r\niOS17\r\n iOS17\r\n4. Apple Watch\r\nApple WatchiP… [+214 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "FT729",
+    "title": "iPhoneの減少率は最も低いが〜第1四半期のスマホ製造台数、各社が昨対比で大幅減少",
+    "description": "台湾の調査会社TrendForceが、2023年第1四半期（1月〜3月）のスマートフォンの製造台数が2022年第1四半期（1月〜3月）と比べて19.5%減少したと報告しました。\n \nスマートフォンメーカーの世界シェア上位5社の中ではApple（iPhone）の減少率は11.9%で、最も低くなっています。\n\n■3行で分かる、この記事のポイント\n1. 第1四半期（1月〜3月）のスマートフォンの製造台数が、前年同期比で19.5%も減少した。\n2. 製造台数は2億5,000万台で、四半期の製造台数としては2014年以来の…",
+    "url": "https://iphone-mania.jp/?p=541344",
+    "urlToImage": "https://iphone-mania.jp/uploads/2022/12/24/iPhone13-14-Galaxy-S22-23_1200.jpg",
+    "publishedAt": "2023-06-11T03:43:42Z",
+    "content": "TrendForce2023113202211319.5%5AppleiPhone11.9%31. 11319.5%2. 25,00020143. iPhone1478%\r\n2014\r\nTrendForce202311319.5%25,00020145Apple11.9%Xiaomi40.4%\r\niPhone1478%\r\n202241012Apple27.5%2023113iPhoneiPhon… [+92 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "9to5linux.com"
+    },
+    "author": "Marius Nestor",
+    "title": "Debian 12 “Bookworm” Officially Released, Here’s What’s New",
+    "description": "The Debian Project released today the final version of the Debian 12 “Bookworm” operating system, a major release that brings several new features, updated components, and many improvements.",
+    "url": "https://9to5linux.com/debian-12-bookworm-officially-released-heres-whats-new",
+    "urlToImage": "https://9to5linux.com/wp-content/uploads/2023/06/d12bw.webp",
+    "publishedAt": "2023-06-11T03:45:03Z",
+    "content": "The Debian Project released today the final version of the Debian 12 “Bookworm” operating system, a major release that brings several new features, updated components, and many improvements.\r\nAfter a… [+3358 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Worldsoccertalk.com"
+    },
+    "author": "World Soccer Talk",
+    "title": "Where to find São Paulo vs Palmeiras on US TV",
+    "description": "Here are all of the details of where you can watch São Paulo vs Palmeiras on US television and via legal streaming: WHO São Paulo vs Palmeiras WHAT Brasileirão WHEN 3:00pm ET / 12:00pm PT • Sunday, June 11, 2023 WHERE Paramount+, Fanatiz, and ViX FREE TRIAL W…",
+    "url": "https://worldsoccertalk.com/news/where-to-find-sao-paulo-vs-palmeiras-on-us-tv-20230611-WST-436891.html",
+    "urlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230611_WST_436891_spfc-palmeiras-bra.jpg[ampersand]width=1200[ampersand]height=740",
+    "publishedAt": "2023-06-11T04:01:00Z",
+    "content": "Includes: Bundesliga &amp; La Liga\r\nSign Up"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Mirror Online"
+    },
+    "author": "mirrornews@mirror.co.uk (Harry Davies)",
+    "title": "Charles Oliveira knocks out Beneil Dariush in first round at UFC 289",
+    "description": "The co-main event of UFC 289 saw Oliveira and Dariush meet in a fight that would likely produce the next challenger for Islam Makhachev's lightweight title",
+    "url": "https://www.mirror.co.uk/sport/other-sports/mma/charles-oliveira-beneil-dariush-fight-30205280",
+    "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article30205298.ece/ALTERNATES/s1200/0_GettyImages-1258601204.jpg",
+    "publishedAt": "2023-06-11T04:05:38Z",
+    "content": "Charles Oliveira put himself within touching distance of a lightweight title shot by knocking out Beneil Dariush at UFC 289.\r\nOliveira came out aggressively as the fight got underway and the Brazilia… [+2168 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Origo.hu"
+    },
+    "author": null,
+    "title": "Az Apple méregdrága csodaszemüvege még drágább lesz a szemüvegeseknek",
+    "description": "A Zeiss szemüvegeseknek való lencséje páronként 300 dollárba kerülhet, a 3499 dolláros vételáron felül.",
+    "url": "https://www.origo.hu/techbazis/20230609-apple-vision-pro-headset-szemuveg.html",
+    "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2306/20230609apple-vision-pro1.jpg?w=1024",
+    "publishedAt": "2023-06-11T04:30:00Z",
+    "content": "A Zeiss szemüvegeseknek való lencséje páronként 300 dollárba kerülhet, a 3499 dolláros vételáron felül.Rengeteg kérdést hagyott nyitva az Apple forradalminak tartott Vision Pro headsetje. Tim Cook sz… [+915 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Ithome.com"
+    },
+    "author": null,
+    "title": "苹果 Vision Pro 头显的最大优势不是硬件，而是开发者生态",
+    "description": "IT之家 6 月 11 日消息，苹果公司本周发布了其首款混合现实头显 Vision Pro，售价 3499 美元。该设备拥有双 4K 显示屏、强大的笔记本芯片、先进的眼部和手部追踪技术等，但 The Vege 发文称，Vision Pro 还有一个金钱买不到的优势：苹果的开发者生态。Vision Pro 最大的优势之一，可能就是 iPhone 和 iPad 的开发者能够轻松地使用熟悉的工具和框架，将他们现有的应用程序移植到该设备的操作系统 visionOS 中。这与 Meta、Valve、PlayStation …",
+    "url": "https://www.ithome.com/0/699/006.htm",
+    "urlToImage": null,
+    "publishedAt": "2023-06-11T02:13:10Z",
+    "content": "IT 6 11 Vision Pro 3499 4K The Vege Vision Pro \r\nVision Pro iPhoneiPad visionOS MetaValvePlayStation HTC Unity OpenXR \r\n Meta Quest OfficeXbox Netflix Meta Quest Meta Quest 400 VR \r\n Vision Pro iPad … [+518 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Arigato-ipod.com"
+    },
+    "author": "Ygn",
+    "title": "【編集後記】Apple Vision Proのデザインの元ネタを探してみた",
+    "description": "WWDCでApple Vision Proが発表されましたね。 Appleシリコンの採用や、高性能のカメラ、LiDARスキャナによる空間認識など、AppleがiPhoneやMacなどで培ってきた技術を結集させて、新しい「...\nThe post 【編集後記】Apple Vision Proのデザインの元ネタを探してみた first appeared on アイアリ.",
+    "url": "https://arigato-ipod.com/2023/06/column-22-06-11.html",
+    "urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2023/06/230611applevisionprodesign.jpg",
+    "publishedAt": "2023-06-11T02:00:02Z",
+    "content": "WWDCでApple Vision Proが発表されましたね。\nAppleシリコンの採用や、高性能のカメラ、LiDARスキャナによる空間認識など、AppleがiPhoneやMacなどで培ってきた技術を結集させて、新しい「空間コンピュータ」が作り上げられています。\n日本での発売が待ち遠しいです。\n\n\n外側のデザインにも、これまでのApple製品で見覚えのあるパーツや素材が使われているので、元ネタ・… [+1585 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Dealnews.com"
+    },
+    "author": null,
+    "title": "Men's Linen Pants for $10 for 2 + $9.98 s&h",
+    "description": "Add two pair to cart and apply code \"OKN2\" to save $110. Buy Now at OUKU \r\nTips\r\n <ul> <li>In several colors.</li> </ul>",
+    "url": "https://www.dealnews.com/Mens-Linen-Pants-for-10-for-2-9-98-s-h/21241737.html",
+    "urlToImage": "https://c.dlnws.com/image/upload/f_auto,t_maximum,q_auto/content/wtpv78mme7ojsgluxgkj.jpg",
+    "publishedAt": "2023-06-11T04:00:00Z",
+    "content": "moreThe first 500,000 subscribers in the U.S. can reserve a dual screen smart TV, which will be shipped beginning this summer. The catch is that the second, smaller screen shows ads 24/7. According t… [+401 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Dealnews.com"
+    },
+    "author": null,
+    "title": "Men's Hiking Cargo Shorts for $10 + $4 s&h",
+    "description": "Take $24 off with code \"GM05\". Buy Now at Gymstugan \r\nTips\r\n <ul> <li>In several colors (Gray pictured).</li> </ul>",
+    "url": "https://www.dealnews.com/Mens-Hiking-Cargo-Shorts-for-10-4-s-h/21241872.html",
+    "urlToImage": "https://c.dlnws.com/image/upload/f_auto,t_maximum,q_auto/content/wpbuhhewofcoa0hvg5f0.jpg",
+    "publishedAt": "2023-06-11T04:00:00Z",
+    "content": "moreThe first 500,000 subscribers in the U.S. can reserve a dual screen smart TV, which will be shipped beginning this summer. The catch is that the second, smaller screen shows ads 24/7. According t… [+401 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Dealnews.com"
+    },
+    "author": null,
+    "title": "Men's Printed Polo for $11 + free shipping",
+    "description": "To get a total savings of $46, apply code \"BTT3\". Buy Now at Bettermrcloth \r\nTips\r\n <ul> <li>In several colors (Blue pictured).</li> </ul>",
+    "url": "https://www.dealnews.com/Mens-Printed-Polo-for-11-free-shipping/21241896.html",
+    "urlToImage": "https://c.dlnws.com/image/upload/f_auto,t_maximum,q_auto/content/ibtnszhhcxaxlgpyjbzt.jpg",
+    "publishedAt": "2023-06-11T04:00:00Z",
+    "content": "moreThe first 500,000 subscribers in the U.S. can reserve a dual screen smart TV, which will be shipped beginning this summer. The catch is that the second, smaller screen shows ads 24/7. According t… [+401 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Dealnews.com"
+    },
+    "author": null,
+    "title": "Men's Boonie Hat for $8 for 2 + $3 s&h",
+    "description": "Add two to cart and apply code \"VC75\" to save $42. Buy Now at Vvcloth \r\nTips\r\n <ul> <li>In several colors (Beige pictured).</li> </ul>",
+    "url": "https://www.dealnews.com/Mens-Boonie-Hat-for-8-for-2-3-s-h/21241941.html",
+    "urlToImage": "https://c.dlnws.com/image/upload/f_auto,t_maximum,q_auto/content/tx0iudhxq9f6cwv5aiu9.jpg",
+    "publishedAt": "2023-06-11T04:00:00Z",
+    "content": "moreThe first 500,000 subscribers in the U.S. can reserve a dual screen smart TV, which will be shipped beginning this summer. The catch is that the second, smaller screen shows ads 24/7. According t… [+401 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Newmobilelife.com"
+    },
+    "author": "Alex",
+    "title": "Vision Pro 商標已被華為於 4 年前註冊",
+    "description": "<!-- wp:paragraph {\"canvasClassName\":\"cnvs-block-core-paragraph-1686446496418\"} -->\n蘋果的首款頭戴式混合實境裝置正式於 WWDC 2023 發佈，其名字為 Vision Pro。儘管外界一直傳這款裝置名稱可能會用 Reality Pro，但最終正式宣佈時卻跟傳聞有所不同。\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":486094,\"sizeSlug\":\"large\",\"linkDesti…",
+    "url": "https://www.newmobilelife.com/2023/06/11/vision-pro-%e5%95%86%e6%a8%99%e5%b7%b2%e8%a2%ab%e8%8f%af%e7%82%ba%e6%96%bc-4-%e5%b9%b4%e5%89%8d%e8%a8%bb%e5%86%8a/",
+    "urlToImage": "https://static.newmobilelife.com/wp-content/uploads/2023/06/1262b45379c0d0c4f27ca26e6452c033.jpg",
+    "publishedAt": "2023-06-11T01:50:25Z",
+    "content": "<!-- wp:paragraph {\"canvasClassName\":\"cnvs-block-core-paragraph-1686446496418\"} -->\n蘋果的首款頭戴式混合實境裝置正式於 WWDC 2023 發佈，其名字為 Vision Pro。儘管外界一直傳這款裝置名稱可能會用 Reality Pro，但最終正式宣佈時卻跟傳聞有所不同。\n<!-- /wp:paragraph -… [+941 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Dark Horizons"
+    },
+    "author": "Garth Franklin",
+    "title": "Holland Talks “Spider-Man 4,” Miles Morales",
+    "description": "Thanks to the likes of the “Spider-Verse” films and the Insomniac Games, a whole generation now sees the character of Miles Morales as a worthy, and arguably more interesting, successor to Peter Parker as Spider-Man. Audiences also seem fine with the prospect…",
+    "url": "https://www.darkhorizons.com/holland-talks-spider-man-4-miles-morales/",
+    "urlToImage": "https://cdndh.darkhorizons.com/wp-content/uploads/2023/06/holland-talks-spider-man-4-miles-morales.jpg",
+    "publishedAt": "2023-06-11T00:39:20Z",
+    "content": "Thanks to the likes of the “Spider-Verse” films and the Insomniac Games, a whole generation now sees the character of Miles Morales as a worthy, and arguably more interesting, successor to Peter Park… [+1828 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Softantenna.com"
+    },
+    "author": "softantenna",
+    "title": "M2 Ultraチップのベンチマークスコアが公開。かなりの性能向上が判明",
+    "description": "Appleの新型Mac StudioとMac Proに搭載予定の「M2 Ultra」チップのベンチマーク結果がGeekbenchサイトに登録されている事がわかりました(MacRumors)。 現在、結果に多少のばらつきはあるものの、M2 U",
+    "url": "https://softantenna.com/blog/m2-ultra-benchmarks/",
+    "urlToImage": "https://softantenna.com/blog/wp-content/uploads/2023/06/Apple-M2-Ultra-Chip-1.jpg",
+    "publishedAt": "2023-06-11T00:16:21Z",
+    "content": "AppleMac StudioMac ProM2 UltraGeekbench(MacRumors)\r\nM2 UltraMac Studio2,80021,700AppleM1 Ultra20%M2 UltraApple\r\nMac Pro28Xeon WIntelMac ProCPU228Intel12,999Mac Pro(6,999)2\r\nWWDCAppleMac ProIntel33D\r\n… [+36 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "SoyaCincau.com"
+    },
+    "author": "Jonathan Lee",
+    "title": "Machines Warehouse Sale 2023: A lowdown on the deals",
+    "description": "The annual Machines Warehouse Clearance Sale is currently being held until June 11 at The Starling Mall. There are plenty of deals to score at the event, including iPhones from as low as RM699, Apple Watches from RM639, iPads from RM2,099 and Macs from RM829.…",
+    "url": "https://soyacincau.com/2023/06/11/machines-warehouse-sale-2023-a-lowdown-on-the-deals/",
+    "urlToImage": "https://soyacincau.com/wp-content/uploads/2023/06/Machines-Warehouse-Clearance-2023-scaled.jpg",
+    "publishedAt": "2023-06-11T01:55:51Z",
+    "content": "The annual Machines Warehouse Clearance Sale is currently being held until June 11 at The Starling Mall. There are plenty of deals to score at the event, including iPhones from as low as RM699, Apple… [+672 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Minatokobe.com"
+    },
+    "author": "酔いどれ",
+    "title": "Macのパフォーマンスを革新、M2 UltraチップはM1より20%高速なCPUスピードを実現し、Apple史上最速のチップに！",
+    "description": "Appleの新しいM2 Ultraチップの最初のベンチマーク結果がGeekbench 6に現れ、CPUパフォーマンスの向上について詳細が明らかになりました このハイエンドチップは、来週発売予定の新しいMac StudioとMac Proモデルで利用可能です 結果にはまだ若干のばらつきがありますが、M2 Ultraチップを搭載したMac Studioは、シングルコアスコアが約2,800、マルチコアスコアが約21,700となるようです 予想通り、これらのスコアはAppleが宣伝した通り、M1 Ultraチップと比較し…",
+    "url": "https://minatokobe.com/wp/os-x/apple-silicon-mac/post-90325.html",
+    "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/06/M2-ULTRA.jpg",
+    "publishedAt": "2023-06-11T00:46:58Z",
+    "content": "AppleM2 UltraGeekbench 6CPU\r\nMac StudioMac Pro\r\nM2 UltraMac Studio2,80021,700AppleM1 Ultra20%CPUM2 UltraApple\r\nMac ProMac Pro28Xeon WCPU2Mac Pro6,999(1,048,800)2812,999\r\nAppleWWDCMac Pro33D\r\nMac ProM… [+72 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": "徐夕",
+    "title": "徐徐道来说手机 篇八十二：2023年618最值得购买的10款直屏手机，喜欢直屏手机的朋友进来看看",
+    "description": "目前，市面上的手机，大多数都是曲面屏手机，曲面屏已成为手机屏幕形状的主流，那么，为什么手机厂商就特别喜欢推出曲屏手机呢？因为曲屏手机的有以下优点：1，首先就是颜值高，承认吧，大多数人都是颜值党，无论你...",
+    "url": "https://post.smzdm.com/p/a0qpnn59/",
+    "urlToImage": "https://a.zdmimg.com/202306/10/64846efb751d12256.jpg_fo742.jpg",
+    "publishedAt": "2023-06-11T03:39:55Z",
+    "content": "1\r\n2\r\n3\r\n4\r\n5\r\n1\r\n2\r\n3\r\n4\r\n2000-3000iQOO114000\r\nACE 2v\r\n9000UFS3.1+LPDDR56.74OLED 120Hz145010.71440HzPWM\r\nACE 2v\r\n500080wK60\r\nOV64B6400\r\nNFCX\r\nACE 2v200012+256\r\n16G44\r\nOnePlus Ace 2V 5G Ace 2V8.15mm1… [+3856 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Thepassivevoice.com"
+    },
+    "author": "PG",
+    "title": "Daniel Mason in conversation about discipline, style and the inspiration for his fourth novel",
+    "description": "From The Bookseller: Daniel Mason’s virtuosic fourth novel, North Woods, is the story of a single house deep in the woods of New England. The first stone is laid in a clearing by a young man who has fled the established Puritan Colony with his lover, who was …",
+    "url": "https://www.thepassivevoice.com/daniel-mason-in-conversation-about-discipline-style-and-the-inspiration-for-his-fourth-novel/",
+    "urlToImage": null,
+    "publishedAt": "2023-06-11T02:48:23Z",
+    "content": "From The Bookseller:\r\nDaniel Masons virtuosic fourth novel, North Woods, is the story of a single house deep in the woods of New England. The first stone is laid in a clearing by a young man who has … [+3785 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Phonandroid"
+    },
+    "author": "Clio Leonard",
+    "title": "Des news de l’Apple Vision Pro, une nouvelle version de la Tesla Model 3, c’est le récap’ de la semaine",
+    "description": "Le prix de fabrication de l’Apple Vision Pro dévoilé, la future Model 3 repérée dans les rues de Californie, des salariés perdent leur emploi à cause de ChatGPT, c’est le récap’ de la semaine. ChatGPT commence déjà à remplacer certains...",
+    "url": "https://www.phonandroid.com/des-news-de-lapple-vision-pro-une-nouvelle-version-de-la-tesla-model-3-cest-le-recap-de-la-semaine.html",
+    "urlToImage": "https://img.phonandroid.com/2023/06/Sans-titre-1-1.png",
+    "publishedAt": "2023-06-11T04:50:31Z",
+    "content": "Le prix de fabrication de lApple Vision Pro dévoilé, la future Model 3 repérée dans les rues de Californie, des salariés perdent leur emploi à cause de ChatGPT, cest le récap de la semaine.\r\nChatGPT … [+3339 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "ft.com",
+    "title": "Big Tech is doing small talk no favours",
+    "description": "Apple’s VR headset offers little to enhance real-world communication skills #apple",
+    "url": "https://biztoc.com/x/5458ebe12c4f1809",
+    "urlToImage": "https://c.biztoc.com/205/og.png",
+    "publishedAt": "2023-06-11T04:40:06Z",
+    "content": "Apples VR headset offers little to enhance real-world communication skills\r\n#apple\r\nThis story appeared on ft.com, 2023-06-11."
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "wired.com",
+    "title": "9 Years After the Mt. Gox Hack, Feds Indict Alleged Culprits",
+    "description": "Apple's Worldwide Developer's Conference this week included an array of announcements about operating system releases and, of course, the company's anticipated mixed-reality headset, Vision Pro. Apple also announced that it is expanding on-device nudity detec…",
+    "url": "https://biztoc.com/x/d3b28f1b8a763a87",
+    "urlToImage": "https://c.biztoc.com/p/d3b28f1b8a763a87/og.webp",
+    "publishedAt": "2023-06-11T00:42:04Z",
+    "content": "Apple's Worldwide Developer's Conference this week included an array of announcements about operating system releases and, of course, the company's anticipated mixed-reality headset, Vision Pro. Appl… [+297 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "medium.datadriveninvestor.com",
+    "title": "The Battle of VR Titans: An In-Depth Look at Apple Vision Pro vs. Meta Quest Pro",
+    "description": "Hey, there! I’m Gabe. You probably know me as the guy who’s passionate about teaching Python and Machine Learning. But today, I’ll be donning a different hat and diving into the world of Virtual Reality (VR). I’ve been a tech enthusiast for as long as I can r…",
+    "url": "https://biztoc.com/x/ba853d82b94f139f",
+    "urlToImage": "https://c.biztoc.com/p/ba853d82b94f139f/s.webp",
+    "publishedAt": "2023-06-11T00:00:32Z",
+    "content": "Hey, there! Im Gabe. You probably know me as the guy whos passionate about teaching Python and Machine Learning.But today, Ill be donning a different hat and diving into the world of Virtual Reality … [+231 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "bravenewcoin.com",
+    "title": "BinaryX and AiGC Labs Developing First AI-Powered Virtual Reality Game on the Metaverse",
+    "description": "Building upon their GameFi expertise, BinaryX has reportedly entered into agreements with their VR and AIGC partners, AiGC Labs, to develop a groundbreaking new GameFi genre of AI-based VR games. First AI-Powered Virtual Reality Game on the Metaverse Accordin…",
+    "url": "https://biztoc.com/x/76cb55aabd261cb4",
+    "urlToImage": "https://c.biztoc.com/p/76cb55aabd261cb4/s.webp",
+    "publishedAt": "2023-06-11T04:06:08Z",
+    "content": "Building upon their GameFi expertise, BinaryX has reportedly entered into agreements with their VR and AIGC partners, AiGC Labs, to develop a groundbreaking new GameFi genre of AI-based VR games.Firs… [+287 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "benzinga.com",
+    "title": "Zuckerberg: Apple's Vision Pro Headset Validates AR/VR's Future",
+    "description": "While Meta Platforms Inc. META CEO Mark Zuckerberg doesn’t think Apple Inc.’s AAPL first-generation mixed reality headset had any “magical” technological advancements, he does believe that Cupertino’s entry in the AR/VR segment will give more “validation to t…",
+    "url": "https://biztoc.com/x/a5933c4591e86343",
+    "urlToImage": "https://c.biztoc.com/p/a5933c4591e86343/s.webp",
+    "publishedAt": "2023-06-11T03:16:04Z",
+    "content": "While Meta Platforms Inc. META CEO Mark Zuckerberg doesnt think Apple Inc.s AAPL first-generation mixed reality headset had any magical technological advancements, he does believe that Cupertinos ent… [+296 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "medium.datadriveninvestor.com",
+    "title": "AI: One Last Ride on the Stock Market Grift",
+    "description": "First off, I want to let the readers know that I am not discounting the effect AI is going to have on society. I am actually researching the impact AI will have on white collar jobs for another article which is about to be released soon. But for now, the whol…",
+    "url": "https://biztoc.com/x/146f1890b910b558",
+    "urlToImage": "https://c.biztoc.com/p/146f1890b910b558/s.webp",
+    "publishedAt": "2023-06-11T00:00:27Z",
+    "content": "First off, I want to let the readers know that I am not discounting the effect AI is going to have on society. I am actually researching the impact AI will have on white collar jobs for another artic… [+236 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Bolsamania.com"
+    },
+    "author": "César Vidal",
+    "title": "Morgan Stanley WM avisa: \"Hay una concentración extrema de las bolsas en la tecnología\"",
+    "description": "El S&P 500 confirmó este jueves el final del mercado bajista que comenzó a principios de 2022. El principal indicador bursátil a nivel mundial completó una recuperación superior al 20% desde su mínimo de octubre del año pasado, poniendo fin así (en teoría), a…",
+    "url": "https://www.bolsamania.com/noticias/value-investing/morgan-stanley-wm-avisa-hay-concentracion-extrema-bolsas-tecnologia--13683380.html",
+    "urlToImage": "https://img1.s3wfg.com/web/img/images_uploaded/d/3/ep_archivo_-_tienda_apple_store_en_nueva_york.jpg",
+    "publishedAt": "2023-06-11T04:00:00Z",
+    "content": "El S&amp;P 500 confirmó este jueves el final del mercado bajista que comenzó a principios de 2022. El principal indicador bursátil a nivel mundial completó una recuperación superior al 20% desde su m… [+4804 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "WELT",
+    "title": "Kanzler und Kabinett sollen eine Inflationsprämie bekommen",
+    "description": "Die Inflationsrate ist so hoch wie seit Jahrzehnten nicht. Nun sollen offenbar Kanzler Olaf Scholz (SPD) und sein Kabinett steuerfreie Inflationsprämien erhalten, wie sie auch Beamten und Arbeitnehmern gezahlt werden können. Daran gibt es Kritik.",
+    "url": "https://www.welt.de/politik/deutschland/article245799140/Bundeskanzler-Scholz-und-sein-Kabinett-sollen-eine-Inflationspraemie-bekommen.html",
+    "urlToImage": "https://img.welt.de/img/politik/deutschland/mobile245799156/3361351247-ci16x9-w1200/Bundeskabinett.jpg",
+    "publishedAt": "2023-06-11T01:32:21Z",
+    "content": "Bundeskanzler Olaf Scholz (SPD) und seine 16 Minister sollen einem Medienbericht zufolge laut einem Gesetzentwurf eine steuerfreie Inflationsprämie in Höhe von 3000 Euro erhalten. Zur Abmilderung der… [+1778 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Boxingnews24.com"
+    },
+    "author": "Boxing News",
+    "title": "Boxing results: Jaime Munguia defeats Sergiy Derevyanchenko",
+    "description": "By Dan Ambrose: Jaime Munguia (42-0, 33 KOs) was battered through eight rounds by Sergiy Derevyanchenko (14-5, 10 KOs) but rallied to win a 12 … read full story ← \nBoxing results: Jaime Munguia defeats Sergiy Derevyanchenko @ Boxing News 24",
+    "url": "https://www.boxingnews24.com/2023/06/boxing-results-jaime-munguia-defeats-sergiy-derevyanchenko/",
+    "urlToImage": "https://www.boxingnews24.com/wp-content/uploads/2023/05/munguia-dchenko-dazn.jpeg",
+    "publishedAt": "2023-06-11T04:08:42Z",
+    "content": "By Ken Hissner: At the Toyota Arena, Ontario, California, Saturday over DAZN Oscar De La Hoya (Golden Boy Promotions) presented in the Main Event former WBO Lightweight champion Jaime Munguia won a m… [+3774 chars]"
+    },
+    {
+   "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "Aabhas Sharma",
+    "title": "Apple Vision Pro: The future’s here and it’s spatial",
+    "description": "Apple has launched its all-new Vision Pro headset integrating two ultra-high resolution displays that contain an exceptional 23 million pixels, alongside 12 cameras, six microphones, and five sensors. The immersive video feature offers a surreal experience to…",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/apple-vision-pro-the-futures-here-and-its-spatial/articleshow/100909909.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-100909910,width-1070,height-580,imgsize-77640,overlay-etpanache/photo.jpg",
+    "publishedAt": "2023-06-11T04:18:03Z",
+    "content": "The idea of wearing a headset for a prolonged period of time doesnt sound appealing, does it? Till now it had been about virtual reality, augmented reality, and some morsels of the metaverse. Who rea… [+3320 chars]"
+    },
+    {
+   "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "Aabhas Sharma",
+    "title": "Apple WWDC 2023: Flexing mega hardware & software muscles with Vision Pro, 15-inch MacBook Air & iOS 17",
+    "description": "Apple made some significant announcements at its WWDC 2023 event. The most important release was the Vision Pro, a mixed reality headset that combines virtual reality, augmented reality, and 'real' reality. It will be the first new hardware from Apple in a de…",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/apple-wwdc-2023-flexing-mega-hardware-software-muscles-with-vision-pro-15-inch-macbook-air-ios-17/articleshow/100909809.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-100909829,width-1070,height-580,imgsize-49394,overlay-etpanache/photo.jpg",
+    "publishedAt": "2023-06-11T04:12:10Z",
+    "content": "Traditionally, Apples World Wide Developer Conference (WWDC) has always been more of a software event. Still, Apple is known to drop a piece of hardware every now and then at the event. At WWDC 2023,… [+2913 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Elconfidencial.com"
+    },
+    "author": "Mario Escribano",
+    "title": "La IA ha puesto aún más difícil fichar talento en España: \"Ya tenemos que pagar 100.000 €\"",
+    "description": "La tecnología de moda ha hecho que grandes tecnológicas, como Google, tengan que disparar salarios para fichar a ingenieros especializados, y eso lo va a poner más complicado a las empresas españolas",
+    "url": "https://www.elconfidencial.com/tecnologia/2023-06-11/inteligencia-artificial-ia-talento-ingenieros-openai_3661811/",
+    "urlToImage": "https://images.ecestaticos.com/Wq6gmvm7LFOea7hiVwxGh5z7GL4=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/8b3/1db/2a3/8b31db2a349dcd73d530cca9fb48d45d.jpg",
+    "publishedAt": "2023-06-11T03:00:00Z",
+    "content": "\"OpenAI no existiría sin europeos. Punto\". La frase la dijo el propio Sam Altman, fundador y CEO de esta empresa, durante su visita a Madrid, hace unas semanas. Además, aprovechó que estaba ante el a… [+7965 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "New Zealand Herald"
+    },
+    "author": "Grant Bradley",
+    "title": "The Auckland to New York marathon: What Qantas has learned from Air New Zealand",
+    "description": "The flight is the fifth longest in the world and the airlines will soon be competing",
+    "url": "https://www.nzherald.co.nz/business/the-auckland-to-new-york-marathon-what-qantas-has-learned-from-air-new-zealand/F5PKVEYBAZANJCP2SL56N6UBA4/",
+    "urlToImage": "https://www.nzherald.co.nz/resizer/cojbJ1BWMbyHADiq7zKRpMlcRqI=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/ZAH4B32DR77S34K47KSSZOMDEM.jpg",
+    "publishedAt": "2023-06-11T04:00:00Z",
+    "content": "Qantas has been closely watching rival Air New Zealands nine months of flying between Auckland and New York and has learned lessons from it.\r\nThe Australian airline begins its Sydney-Auckland-New Yor… [+7177 chars]"
+    },
+    {
+   "source": {
+    "id": "la-nacion",
+    "name": "La Nacion"
+    },
+    "author": "Ernesto Martelli",
+    "title": "Realidad y magia: la visión de Apple y nuestra visión del mundo",
+    "description": "Un visor alimentado por 12 cámaras que que se maneja con los ojos reinstala el debate de cómo nos relacionamos con lo que nos rodea",
+    "url": "https://www.lanacion.com.ar/conversaciones-de-domingo/al-futuro-y-mas-alla-la-vision-de-apple-y-nuestra-vision-del-mundo-nid11062023/",
+    "urlToImage": "https://resizer.glanacion.com/resizer/rG6UN-SAHyErJWgFOmDpfshRnQg=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/BLFQVGMJ6RBKDKOPTPLTRNZBE4.jpg",
+    "publishedAt": "2023-06-11T03:10:00Z",
+    "content": "Cuando el lunes Apple, a través de su CEO, Tim Cook, anunció y exhibió su nuevo producto Vision Pro, supimos que no era un lanzamiento más. No se trata sólo del mejor fabricante de hardware de la his… [+4066 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Tirol.orf.at"
+    },
+    "author": "ORF.at",
+    "title": "Termine bei allen BHs auch online vereinbar",
+    "description": "Termine bei den Tiroler Bezirkshauptmannschaften (BHs) können auch online und über die App des Landes Tirol vereinbart werden. Damit werde die digitale Verwaltung weiter ausgebaut, und man schaffe so eine Win-Win-Situation, wurde betont.",
+    "url": "https://tirol.orf.at/stories/3211064/",
+    "urlToImage": "https://ibs.orf.at/tir?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2019%2F18%2F78%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F158014_master_33478_unbenannt-4.jpg%3Fs%3Ddba4b9a3381042c344fad633d53ac95d225b0ce6",
+    "publishedAt": "2023-06-11T03:58:00Z",
+    "content": "Wenn Bürgerinnen und Bürger einen Führerschein beantragen, den Reisepass ausstellen lassen oder eine Fischer- bzw. Jagdkarte erhalten wollen, brauchen sie dafür einen Termin bei der BH. Dies konnte b… [+1813 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Livedoor.com"
+    },
+    "author": "ITライフハック",
+    "title": "アグリサイエンスバレー常総、まちびらきセレモニー＆内覧会！日本最大級のクリプトカンファレンス「IVS Crypto 2023 KYOTO」全貌を公開【IVS2023】【まとめ記事】",
+    "description": "戸田建設株式会社は2023年5月26日、同社がPPP事業協力者として茨城県常総市と共に事業推進をしてきた、農業6次産業化を軸とした新たな地域社会拠点「アグリサイエンスバレー常総」のまちびらきに伴う、まちびらきセレモニー＆内覧会を開催した。IVS KYOTO実行委員会（Headline Japan / Infinity Ventures Crypto、京都府、京都市、京都知恵産業創造の森）は、2023年6月28日（水）～6月30日（金）の3日間に渡り京都市勧業館「みやこめっせ」「ロームシアター京都」にて開催する、次…",
+    "url": "https://news.livedoor.com/article/detail/24405260/",
+    "urlToImage": "https://image.news.livedoor.com/newsimage/stf/d/4/d4d4e_223_6b4435b8_710a61f6.jpg",
+    "publishedAt": "2023-06-11T01:00:41Z",
+    "content": "2023526PPP6\r\nIVS KYOTOHeadline Japan / Infinity Ventures Crypto20236286303IVS Crypto 2023 KYOTO\r\nCP-050CP-051CP-050300×600×600mmCP-051500×600×600mm\r\n54100-MR196BK()100-MR196W()2cm524.532.5cm\r\nApple 1… [+424 chars]"
+    },
+    {
+   "source": {
+    "id": "la-nacion",
+    "name": "La Nacion"
+    },
+    "author": "Tomás Balmaceda",
+    "title": "Cómo consiguió Taylor Swift ser la gran referente de la obsesión pop",
+    "description": "Sin seguir modas ni fórmulas, la estrella musical de la década arribará en noviembre por primera vez a la Argentina desatando un verdadero frenesí; aquí, una guía para entender al fenómeno musical del momento",
+    "url": "https://www.lanacion.com.ar/espectaculos/musica/como-consiguio-taylor-swift-ser-la-gran-referente-de-la-obsesion-pop-nid11062023/",
+    "urlToImage": "https://resizer.glanacion.com/resizer/eBu9eD-ASYXXnzGCPwA_J5YaOoQ=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/4T2HLNNBGNAOHALXDBVDGHAXE4.jpg",
+    "publishedAt": "2023-06-11T03:00:00Z",
+    "content": "Agotó en horas tres shows en el Estadio Monumental, con entradas que llegaban a costar más de 150.000, domina los rankings de Spotify hace años y las letras de sus canciones son algunas de las frases… [+7117 chars]"
+    },
+    {
+   "source": {
+    "id": "the-irish-times",
+    "name": "The Irish Times"
+    },
+    "author": "Cliff Taylor",
+    "title": "Nexus of big firms, advisers and IDA wields huge power over our economy",
+    "description": "Reliance on a handful of firms has inverted Ireland’s traditional relationship between government and industry. Sinn Féin in power would have to maintain that dynamic",
+    "url": "https://www.irishtimes.com/opinion/2023/06/11/nexus-of-tech-firms-advisers-and-ida-wields-huge-power-over-our-economy/",
+    "urlToImage": "https://www.irishtimes.com/resizer/ytnssUfqxAG80O7XhjmgPIl_WF0=/1200x630/filters:format(jpg):quality(70):focal(483x358:493x368)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/3IXRJ6NWCA7WTLII2J5ZSA23JY.jpg",
+    "publishedAt": "2023-06-11T04:00:00Z",
+    "content": "In 1990, when I was a couple of years in business journalism, I wrote a report on tax payments from multinationals in Ireland rising sharply. All my lifes a circle, as the song goes. The regime that … [+6393 chars]"
+    },
+    {
+   "source": {
+    "id": "the-irish-times",
+    "name": "The Irish Times"
+    },
+    "author": "John O'Sullivan",
+    "title": "Irish rugby’s player contract model looking more attractive by the day as English clubs struggle",
+    "description": "With London Irish the latest victim of financial issues, and players seeing their earning options narrow, world rugby is looking enviously in our direction",
+    "url": "https://www.irishtimes.com/sport/rugby/2023/06/10/irish-rugbys-player-contract-model-looking-more-attractive-by-the-day/",
+    "urlToImage": "https://www.irishtimes.com/resizer/edC-O_Bai1C3HusR1T8BOyaq9FE=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/VYI4HIHGUZCYLEP3JCUMADZ3I4.jpg",
+    "publishedAt": "2023-06-11T04:00:00Z",
+    "content": "The parlous finances of several clubs in the English Premiership claimed a third victim this week in London Irish, who have followed Worcester Warriors and Wasps into dissolution or suspension from t… [+9485 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "EditorDavid",
+    "title": "Debian 12 'Bookworm' Released",
+    "description": "Slashdot reader e065c8515d206cb0e190 shared the big announcement from Debian.org: After 1 year, 9 months, and 28 days of development, the Debian project is proud to present its new stable version 12 (code name bookworm). bookworm will be supported for the nex…",
+    "url": "https://linux.slashdot.org/story/23/06/11/0333242/debian-12-bookworm-released",
+    "urlToImage": "https://a.fsdn.com/sd/topics/debian_64.png",
+    "publishedAt": "2023-06-11T03:53:00Z",
+    "content": "After 1 year, 9 months, and 28 days of development, the Debian project is proud to present its new stable version 12 (code name bookworm).bookworm will be supported for the next 5 years thanks to the… [+1521 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "bobster",
+    "title": "Обзор умных часов Kieslect KS Pro с 2.01 дюймовый AMOLED экраном и яркой внешностью",
+    "description": "Мировая премьера смарт часов Kieslect KS Pro состоится 12 июня, но уже сейчас мы имеем возможность посмотреть, что они из себя представляют. Смарт часы Kieslect KS Pro оснащены прямоугольным 2,01 дюймовым Amoled экраном с разрешением в 502*410 точек, обеспечи…",
+    "url": "https://www.ixbt.com/live/gadgets/obzor-umnyh-chasov-kieslect-ks-pro-s-201-dyuymovyy-amoled-ekranom-i-yarkoy-vneshnostyu.html",
+    "urlToImage": "https://img.ixbt.site/live/topics/preview/00/04/37/21/cd8fc09220.jpg",
+    "publishedAt": "2023-06-11T03:58:59Z",
+    "content": "Kieslect KS Pro 12 , , . Kieslect KS Pro 2,01 Amoled 502*410 , . 2 , , 22 .\r\n<table><tr><th></th><th></th></tr>\r\n<tr><td></td><td></td></tr><tr><td></td><td>\r\n 46,7*38*10,2 \r\n </td></tr><tr><td>\r\n / … [+952 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Dealnews.com"
+    },
+    "author": null,
+    "title": "Men's Western Hat for $8 for 2 + $6 s&h",
+    "description": "Add two to cart and apply code \"RM3\" to save $46. Buy Now at Rogoman \r\nTips\r\n <ul> <li>In several colors (Brown pictured).</li> </ul>",
+    "url": "https://www.dealnews.com/Mens-Western-Hat-for-8-for-2-6-s-h/21241887.html",
+    "urlToImage": "https://c.dlnws.com/image/upload/f_auto,t_maximum,q_auto/content/hquw3ssf3wim8wouehkk.jpg",
+    "publishedAt": "2023-06-11T04:00:00Z",
+    "content": "moreThe first 500,000 subscribers in the U.S. can reserve a dual screen smart TV, which will be shipped beginning this summer. The catch is that the second, smaller screen shows ads 24/7. According t… [+401 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Dealnews.com"
+    },
+    "author": null,
+    "title": "Men's Linen Pants for $10 for 2 + $9.98 s&h",
+    "description": "Add two pair to cart and apply code \"OKN2\" to save $110. Buy Now at OUKU \r\nTips\r\n <ul> <li>In several colors.</li> </ul>",
+    "url": "https://www.dealnews.com/Mens-Linen-Pants-for-10-for-2-9-98-s-h/21241737.html",
+    "urlToImage": "https://c.dlnws.com/image/upload/f_auto,t_maximum,q_auto/content/wtpv78mme7ojsgluxgkj.jpg",
+    "publishedAt": "2023-06-11T04:00:00Z",
+    "content": "moreThe first 500,000 subscribers in the U.S. can reserve a dual screen smart TV, which will be shipped beginning this summer. The catch is that the second, smaller screen shows ads 24/7. According t… [+401 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Daily Mail"
+    },
+    "author": "Ben Nagle",
+    "title": "Lionel Messi's new team Inter Miami are thrashed by New England Revolution",
+    "description": "In the first league game played by the team since the announcement of Messi's impending transfer, Inter Miami were - again - dreadful, and the result leaves them rock bottom of MLS.",
+    "url": "https://www.dailymail.co.uk/sport/football/article-12182069/Lionel-Messis-new-team-Inter-Miami-thrashed-New-England-Revolution.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2023/06/11/03/72000005-0-image-a-68_1686448857617.jpg",
+    "publishedAt": "2023-06-11T02:04:41Z",
+    "content": "Inter Miami fans will be begging for the early arrival of Lionel Messi after they were thrashed 3-1 by New England Revolution on Saturday night.\r\nIn the first league game played by the team since the… [+4285 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "New Zealand Herald"
+    },
+    "author": "Anna Sarjeant",
+    "title": "Wētā Workshop trolls released into the wild at NZ transport hubs",
+    "description": "Meet Jeff, the otherworldly creature wreaking havoc in our major cities.",
+    "url": "https://www.nzherald.co.nz/travel/weta-workshop-trolls-released-into-the-wild-at-nz-transport-hubs/2FFJNW5YNJE2DG5ZUDK4JX5UPE/",
+    "urlToImage": "https://www.nzherald.co.nz/resizer/2fjr9CIsk6YwpiYBENn_LHaEpgY=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/AHESRDPBNVGKJOVISH5CFCXSCI.jpg",
+    "publishedAt": "2023-06-11T01:00:00Z",
+    "content": "Each week in Sunday Travel, we check out some of the latest happenings from Aotearoa and beyond to inspire your next adventure.\r\nTrolling online ... the train line\r\nYouve seen them all over your soci… [+2536 chars]"
+    },
+    {
+   "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Ryan Morik",
+    "title": "Aaron Rodgers says readying for season with Jets has been 'most fun I've had in a while'",
+    "description": "After 18 seasons with the Green Bay Packers, Aaron Rodgers is refreshed and enjoying his time as a New Yorker and as the Jets' quarterback.",
+    "url": "https://www.foxnews.com/sports/aaron-rodgers-says-readying-season-jets-most-fun-ive-had-in-a-while",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/rodgers.jpg",
+    "publishedAt": "2023-06-11T00:40:04Z",
+    "content": "It seems Aaron Rodgers needed to get out of Green Bay.\r\nAfter 18 seasons with the Packers, Rodgers' tenure ended in the NFC North, and he was traded to the New York Jets.\r\nIt's been a breath of fresh… [+1203 chars]"
+    },
+    {
+   "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Apple import from New Zealand surges - VnExpress International",
+    "description": "Apple import from New Zealand surges  VnExpress International",
+    "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vZS52bmV4cHJlc3MubmV0L25ld3MvYnVzaW5lc3MvaW5kdXN0cmllcy9hcHBsZS1pbXBvcnQtZnJvbS1uZXctemVhbGFuZC1zdXJnZXMtNDYxNTU2Mi5odG1s0gFlaHR0cHM6Ly9hbXBlLnZuZXhwcmVzcy5uZXQvbmV3cy9idXNpbmVzcy9pbmR1c3RyaWVzL2FwcGxlLWltcG9ydC1mcm9tLW5ldy16ZWFsYW5kLXN1cmdlcy00NjE1NTYyLmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+    "urlToImage": null,
+    "publishedAt": "2023-06-11T02:00:00Z",
+    "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Infomercado.pe"
+    },
+    "author": "Por Karla Valeria Cotrina Lejabo",
+    "title": "Apple compra startup para potenciar el marketing de sus Vision Pro",
+    "description": "La nueva adquisición de Apple se llama Mira, empresa estadounidense especializada en hardware de realidad virtual.",
+    "url": "https://infomercado.pe/apple-compra-startup-para-potenciar-el-marketing-de-sus-gafas-vision-pro-07062023-kc/",
+    "urlToImage": "https://infomercado.pe/wp-content/uploads/2023/06/Miniatura-de-Youtube-Versus-VS-Azul-Moderno-2023-06-07T124746.425.jpg",
+    "publishedAt": "2023-06-11T00:54:04Z",
+    "content": "Apple anunció la compra de la startup Mira, con la finalidad de impulsar las capacidades de las nuevas gafas Vision Pro, producto tecnológico de realidad aumentada que pretende cambiar la manera en l… [+1198 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Mac Pro With M2 Ultra Chip Up to Twice as Fast as Top-End Intel Model",
+    "description": "The first benchmark results for Apple's new M2 Ultra chip have surfaced on Geekbench 6, providing a closer look at CPU performance improvements...",
+    "url": "https://www.macrumors.com/2023/06/10/mac-pro-with-m2-ultra-chip-twice-as-fast/",
+    "urlToImage": "https://images.macrumors.com/t/ZnWCapdza5uZM08uiZjE7HAH_qI=/2500x/article-new/2023/01/Mac-Pro-Feature-Teal.jpg",
+    "publishedAt": "2023-06-11T02:58:29Z",
+    "content": "The first benchmark results for Apple's new M2 Ultra chip have surfaced on Geekbench 6, providing a closer look at CPU performance improvements for the latest Macs. So far, the benchmark results are … [+1400 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Hurriyet.com.tr"
+    },
+    "author": "Umut Fırat Eroğlu",
+    "title": "Vision Pro: Apple’ın gerçeküstü vizyonu",
+    "description": "Devrim niteliğinde bir üründen bahsedeceğim. Kayak gözlüğüne benzeyen, gelişmiş bir kişisel bilgisayar aslında bu... Geleceğin bilgisayarını dünyaya göstermek için tasarlanan Vision Pro’yu test eden biri, NBA maçını seyrederken kendisini saha kenarında hisset…",
+    "url": "https://www.hurriyet.com.tr/yazarlar/umut-firat-eroglu/vision-pro-applein-gercekustu-vizyonu-42281829",
+    "urlToImage": "https://i4.hurimg.com/i/hurriyet/75/1200x675/63873faa4e3fe1118c7f575d.jpeg",
+    "publishedAt": "2023-06-11T03:28:29Z",
+    "content": "p&gt;Apple imdiye kadarki en gösterili numaralarndan birini yapt m? Görünüe baklrsa evet! Geçen hafta görücüye çkan sanal balk Vision Pro, Applen iPhonedan bu yana dijital dünyaya sunduu en önemli ye… [+5022 chars]"
+    }
+    ]
+    }
